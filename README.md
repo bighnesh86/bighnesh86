@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bighnesh86
+- 👋 Hi, I’m Bighnesh
 - 👀 I’m interested in Android programming & love to create awesome desgins.
 - 🌱 I’m currently learning Android programming and Figma for polish my desgin skill.
 - 💞️ I’m looking to collaborate on ...
