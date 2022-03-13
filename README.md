@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bighnesh
 - 👀 I’m interested in Android programming & love to create awesome desgins.
-- 🌱 I’m currently learning Android programming and Figma for polish my desgin skill.
+- 🌱 I’m currently learning Android programming and Figma.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... with my email id -bighnesh0456@gmail.com
 
