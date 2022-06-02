@@ -4,7 +4,7 @@ Hi 👋 My name is Bighnesh panda
 Android Developer
 -----------------
 
-I've been learning to code for 1 year on my phone. Thinking of being an Android developer, after buying my first laptop about 3 months ago .
+I've been learning to code for 1 year .
 
 *   🌍  I'm based in Bhubaneswar
 *   🧠  I'm learning Kotlin & Jetpack Compose
@@ -18,7 +18,8 @@ I've been learning to code for 1 year on my phone. Thinking of being an Android 
                                 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
                                 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
                                 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-                                <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src=https://img.icons8.com/color/36/000000/android-studio--v1.png" width="36" height="36" alt="Figma" /></a>
+                                <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/36/000000/android-studio--v1.png" width="36" height="36" alt="Android studio" /></a>
+                                   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/36/undefined/git.png" alt="Git" /></a>
                                  <!-- <a target="_blank" href="https://icons8.com/icon/EgOU93v1DHjU/android-studio">Android Studio icon by Icons8</a> --->
                                  </p>
                     
