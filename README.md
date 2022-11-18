@@ -1,4 +1,4 @@
-Hi 👋 My name is Bighnesh panda
+Hi 👋 My name is Bighnesh Panda
 ===============================
 
 Android Developer
